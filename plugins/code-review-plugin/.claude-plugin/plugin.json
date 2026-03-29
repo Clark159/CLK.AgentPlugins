@@ -1,0 +1,5 @@
+{
+  "name": "code-review-plugin",
+  "description": "程式碼審查 skill，涵蓋命名、錯誤處理、效能、安全性與可讀性",
+  "version": "1.0.0"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "clk-plugins",
+  "owner": {
+    "name": "Clark159"
+  },
+  "plugins": [
+    {
+      "name": "code-review-plugin",
+      "source": "./plugins/code-review-plugin",
+      "description": "程式碼審查 skill，涵蓋命名、錯誤處理、效能、安全性與可讀性"
+    }
+  ]
+}
